@@ -1,0 +1,32 @@
+body{
+    background-color: blueviolet;
+}
+
+.Parte1{
+    text-align: center;
+    font-size: large;
+    color: bisque;
+}
+
+.Parte1{
+    border-color: palevioletred;
+    border-style: outset;
+    border-width: 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#alanzoka{
+    width: 50%;
+    border-style: dotted;
+    border-color: aquamarine;
+}
+
+.alanzoka1{
+    background-color: plum;
+    margin-left: 25%;
+}
+
+.rogerio{
+    
+}
